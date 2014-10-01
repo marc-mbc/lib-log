@@ -2,7 +2,7 @@
     // JSHint Default Configuration File (as on JSHint website)
     // See http://jshint.com/docs/ for more details
     // Custom Globals
-    "predef": [ "log", "config" ],
+    "predef": [],
     "maxerr"        : 50,       // {int} Maximum error before stopping
 
     // Enforcing
