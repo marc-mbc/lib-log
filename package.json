@@ -4,7 +4,7 @@
   "author": "Marc Blando",
   "email": "marc.mbc@gmail.com",
   "private": true,
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "./lib/main",
   "dependencies": {
     "restify": "2.8.x",
